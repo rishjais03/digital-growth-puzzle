@@ -1,0 +1,45 @@
+MAIN RESULTS SUMMARY
+
+1. Baseline Model (Panel Fixed Effects):
+Internet coefficient = -0.078
+Standard Error = 0.0226
+p-value < 0.01
+
+Interpretation:
+There is a statistically significant negative relationship between internet usage and GDP growth.
+
+---
+
+2. Instrumental Variable (IV) Model:
+Internet coefficient ≈ -0.084
+p-value < 0.01
+
+Interpretation:
+The negative relationship remains robust after addressing potential endogeneity.
+
+---
+
+3. Quadratic Model:
+Turning point ≈ 79.8% internet penetration
+
+Interpretation:
+There is weak evidence of non-linearity, suggesting diminishing effects at higher levels of internet usage.
+
+---
+
+4. Income Group Analysis:
+
+High-income countries:
+Internet coefficient ≈ -0.0506 (significant)
+
+Low-income countries:
+Internet coefficient ≈ -0.0454 (significant)
+
+Interpretation:
+The negative relationship is consistent across income groups.
+
+---
+
+FINAL CONCLUSION:
+
+The negative coefficient does not imply that internet usage reduces growth. Instead, it reflects structural dynamics such as convergence, measurement limitations, and cross-country heterogeneity in macroeconomic data.
