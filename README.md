@@ -32,6 +32,10 @@ This suggests that macro-level regressions capture structural effects such as co
 
 This study relies on cross-country panel data, which may capture structural relationships rather than causal effects. While instrumental variable techniques are employed, full causal identification remains limited. Results should therefore be interpreted with caution.
 
+## How to Cite
+
+Jaiswal, R., & Saxena, P. (2026). *Revisiting the Digital Growth Puzzle: Internet Usage and Economic Growth in Cross-Country Panel Data*. SSRN Working Paper. https://doi.org/10.2139/ssrn.6657019
+
 
 ## Paper
 
