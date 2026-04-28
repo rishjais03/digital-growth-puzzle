@@ -1,6 +1,9 @@
 """
 Revisiting the Digital Growth Puzzle
-Author: Rishabh Jaiswal
+
+Authors:
+Rishabh Jaiswal
+Priyanka Saxena
 
 This script reproduces all results from the paper.
 """
